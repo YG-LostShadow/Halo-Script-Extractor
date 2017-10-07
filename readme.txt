@@ -1,4 +1,3 @@
-# Halo Script Extractor
 Halo Script Extractor
 By: Skarma
 Improvements by: kornman00
